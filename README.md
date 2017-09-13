@@ -7,7 +7,7 @@ This example shows how to use AnyChart library with the Kotlin programming langu
 
 ## Running
 
-To use this sample you must have Gradl installed on your computer.
+To use this sample you must have Gradle installed on your computer.
 You can use SDKMAN to install it:
 ```
 $ curl -s get.sdkman.io | bash
