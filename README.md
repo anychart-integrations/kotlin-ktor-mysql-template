@@ -86,7 +86,7 @@ Database mapping - [Exposed](https://github.com/JetBrains/Exposed)<br />
 * [Documentation](https://docs.anychart.com)
 * [JavaScript API Reference](https://api.anychart.com)
 * [Code Playground](https://playground.anychart.com)
-* [Technical Support](https://anychart.com/support)
+* [Technical Support](https://www.anychart.com/support)
 
 ## License
 AnyChart Kotlin/Ktor/MySQL integration sample includes two parts:
