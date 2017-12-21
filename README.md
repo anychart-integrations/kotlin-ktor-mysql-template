@@ -53,7 +53,7 @@ Run application:
 $ gradle run
 ```
 
-Open browser at http://localhost:8000/
+Open browser at http://localhost:8080/
 
 ## Workspace
 Your workspace should look like:
