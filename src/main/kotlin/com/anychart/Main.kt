@@ -67,15 +67,15 @@ fun template(fruitsJson: String): String {
         head {
             meta { charset = "UTF-8" }
             title { +"AnyChart Kotlin Ktor MySQL template" }
-            script { src = "https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js" }
-            script { src = "https://cdn.anychart.com/releases/8.0.0/js/anychart-exports.min.js" }
-            script { src = "https://cdn.anychart.com/releases/8.0.0/js/anychart-vml.min.js" }
+            script { src = "https://cdn.anychart.com/releases/v8/js/anychart-base.min.js" }
+            script { src = "https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js" }
+            script { src = "https://cdn.anychart.com/releases/v8/js/anychart-vml.min.js" }
             link {
-                href = "https://cdn.anychart.com/releases/8.0.0/css/anychart-ui.min.css"
+                href = "https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css"
                 rel = "stylesheet"
             }
             link {
-                href = "https://cdn.anychart.com/releases/8.0.0/fonts/css/anychart.min.css"
+                href = "https://cdn.anychart.com/releases/v8/fonts/css/anychart.min.css"
                 rel = "stylesheet"
             }
             style {
